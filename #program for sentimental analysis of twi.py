@@ -16,10 +16,10 @@ import seaborn as sns
 
 
 #twitter api credentials
-consumerkey="TxIhGnmCxeDZh77Ag7fs0feWI"
-consumersecret="Jdoq6Qs6HayKQPIgPucyA2AiQ0Gl7wPDJELhD1Z3MkM1HJUlWG"
-accesstoken="80331813-wreWegoA0e21SLJs43Uxlu7t0azaIHFsbOapY1hlI"
-accesstokensecret="kr3Uj6CHjwYVdaOJog1x3dp4sG05UCkZUEvnDdCu2mu4P"
+consumerkey=""
+consumersecret=""
+accesstoken=""
+accesstokensecret=""
 
 #create the authentication object
 authen=tweepy.OAuthHandler(consumerkey,consumersecret)
